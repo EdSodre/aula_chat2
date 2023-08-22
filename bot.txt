@@ -1,0 +1,1 @@
+& C:/Users/discente/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/discente/Downloads/aula_de_hoje/leia.py=& C:/Users/discente/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/discente/Downloads/aula_de_hoje/leia.py
